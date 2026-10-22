@@ -1,0 +1,23 @@
+{
+  "appId": "com.onedoor.app",
+  "appName": "阿贝贝门禁系统",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0a0e17"
+  },
+  "ios": {
+    "backgroundColor": "#0a0e17",
+    "preferredContentMode": "mobile",
+    "allowsInlineMediaPlayback": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0a0e17",
+      "showSpinner": false
+    }
+  }
+}
